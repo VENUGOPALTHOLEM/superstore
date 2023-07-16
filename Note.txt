@@ -1,0 +1,24 @@
+virtual  environment
+1st Step
+------------------------------------------------
+Anaconda  prompt
+
+C: >python -m venv sup
+
+C:\Users\bhavesh>sup\scripts\activate.bat
+
+-----------------Every times start from 2nd Step
+
+C:\Users\bhavesh>sup\scripts\activate
+
+(sup) (base) C:\Users\bhavesh>D:
+
+-------------change  working Directory  to 
+
+(sup) (base) D:\>cd D:\ML1\superstore
+
+----------------VSCode
+
+
+(base) PS D:\ML1\superstore> streamlit run d:/ML1/superstore/dashboard.py
+
